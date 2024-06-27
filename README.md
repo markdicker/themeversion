@@ -5,7 +5,7 @@ The idea behind this was to replace some PHP code that did the same thing.  I us
 
 So I have packaged this as an NPM package and you can install it using 
 
-    npm i themeversion
+    npm i themeversion --save-dev
 
 
 To use in gulp create a task like this
