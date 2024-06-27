@@ -1,6 +1,6 @@
 {
   "name": "themeversion",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Retrieves the version number from theme style.css",
   "repository": {
     "type": "git",
@@ -10,6 +10,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mark Dicker",
   "license": "MIT"
 }
