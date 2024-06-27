@@ -1,7 +1,7 @@
 {
   "name": "themeversion",
-  "version": "1.0.0",
-  "description": "Retrieves the WP version number from theme style.css",
+  "version": "1.0.3",
+  "description": "Retrieves the version number from theme style.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/markdicker/themeversion.git"
