@@ -1,3 +1,3 @@
-exports.wpVersion = function () {
-    console.log( "wpVersion" );
+exports.themeVersion = function () {
+    console.log( "Theme Version" );
 }
