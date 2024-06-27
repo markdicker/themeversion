@@ -1,5 +1,8 @@
-const fs = require('fs');
+/*
+ * Copyright : Mark Dicker 2024
+ */
 
+const fs = require('fs');
 
 const version_regex = /^[ \t\/*#@]*Version:(.*)$/mi;
 
