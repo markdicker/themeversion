@@ -1,4 +1,4 @@
-# wpversion
+# themeversion
 ## Retrieves the version number from a wordpress theme
 
 The idea behind this was to replace some PHP code that did the same thing.  I used the PHP in a bash script to automate building a release zip file.  The bash script worked fine, but I wanted to use something like Gulp to manage the process.  
