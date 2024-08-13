@@ -7,7 +7,7 @@ const fs = require('fs');
 const version_regex = /^[ \t\/*#@]*Version:(.*)$/mi;
 
 // const version_number_regex = /\s*(?:\*\/|\?>).*/;
-const version_number_regex = /(?:(\d+)\.)?(?:(\d+)\.)?(?:(\d+)\.\d+)/;
+const version_number_regex = /(?:([0-9a-zA-Z/-]+)\.)?(?:([0-9a-zA-Z/-]+)\.)?(?:([0-9a-zA-Z/-]+)\.\d+)/;
 
 async function themeVersion( filename = 'style.css' ) {
     
